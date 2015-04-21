@@ -24,9 +24,9 @@ Light-weight (Minimal) OS for running containers.
 - [boot2docker](http://boot2docker.io/) 
 - [CoreOS](https://coreos.com/) from CoreOS
 - [Project Aomic](http://www.projectatomic.io/) from Red Hat
-- [Snappy Ubunut Core](http://www.ubuntu.com/cloud/tools/snappy) from Canonical
+- [Snappy Ubuntu Core](http://www.ubuntu.com/cloud/tools/snappy) from Canonical
 - [RancherOS](http://rancher.com/rancher-os/) from Rancher Labs
-- [Photon](https://vmware.github.io/photon/) from VMWare
+- [Photon](https://vmware.github.io/photon/) from VMware
 - [Nano Server]([http://blogs.technet.com/b/windowsserver/archive/2015/04/08/microsoft-announces-nano-server-for-modern-apps-and-cloud.aspx) from Windows
 
 ## Cluster Management
