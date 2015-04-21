@@ -32,6 +32,7 @@ Light-weight (Minimal) OS for running containers.
 ## Cluster Management
 
 - [kubernetes](http://kubernetes.io/)
+- [lattice](http://lattice.cf/index.html)
 
 
 ## Networking
