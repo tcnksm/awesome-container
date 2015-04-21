@@ -4,12 +4,17 @@
 
 A curated list of awesome container technologies inspired by [awesomes](https://github.com/sindresorhus/awesome).
 
+- [jetpack](https://github.com/3ofcoins/jetpack)
+- [nosecone](https://github.com/cdaylward/nosecone)
 - [rkt](https://github.com/coreos/rkt) from CoreOS
 - [Docker](https://www.docker.com/) from Docker
+- [systemd-nspawn](http://fedoraproject.org/wiki/Features/SystemdLightweightContainers)
 - [lmctfy](https://github.com/google/lmctfy) from Google
-- [garden](https://github.com/cloudfoundry-incubator/garden) from CloudFoundry
-- [warden](https://github.com/cloudfoundry/warden) from CloudFoundry
+- [warden](https://github.com/cloudfoundry/warden) ([garden](https://github.com/cloudfoundry-incubator/garden)) from CloudFoundry
 - [LXC](https://linuxcontainers.org/)
+- [OpenVZ](https://openvz.org/Main_Page)
+- [Solaris Zones](http://docs.oracle.com/cd/E26502_01/html/E29024/toc.html) from Oracle
+- [FreeBSD jail](http://www.freebsd.org/cgi/man.cgi?query=jail&format=html)
 
 ## OS for container
 
