@@ -39,3 +39,6 @@ Light-weight (Minimal) OS for running containers.
 
 - [weave](http://weave.works/)
 
+## Service
+
+- [Amazon EC2 Container Service](http://aws.amazon.com/ecs/)
