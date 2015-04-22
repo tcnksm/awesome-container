@@ -27,7 +27,7 @@ Light-weight (Minimal) OS for running containers.
 
 - [boot2docker](http://boot2docker.io/) 
 - [CoreOS](https://coreos.com/) from CoreOS
-- [Project Aomic](http://www.projectatomic.io/) from Red Hat
+- [Project Atomic](http://www.projectatomic.io/) from Red Hat
 - [Snappy Ubuntu Core](http://www.ubuntu.com/cloud/tools/snappy) from Canonical
 - [RancherOS](http://rancher.com/rancher-os/) from Rancher Labs
 - [Photon](https://vmware.github.io/photon/) from VMware
