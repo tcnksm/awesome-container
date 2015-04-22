@@ -36,7 +36,9 @@ Light-weight (Minimal) OS for running containers.
 ### Cluster Management
 
 - [kubernetes](http://kubernetes.io/)
+- [Tectonic](https://tectonic.com/)
 - [lattice](http://lattice.cf/index.html)
+- [Panamax](http://panamax.io/)
 - [Flocker](https://github.com/ClusterHQ/flocker)
 - [VirtKick](https://github.com/virtkick/virtkick)
 
@@ -44,6 +46,10 @@ Light-weight (Minimal) OS for running containers.
 
 - [weave](http://weave.works/)
 - [wormhole](https://github.com/vishvananda/wormhole)
+
+### Monitoring
+
+- [cAdvisor](https://github.com/google/cadvisor)
 
 ### PaaS 
 
