@@ -34,11 +34,26 @@ Light-weight (Minimal) OS for running containers.
 - [kubernetes](http://kubernetes.io/)
 - [lattice](http://lattice.cf/index.html)
 
-
 ## Networking
 
 - [weave](http://weave.works/)
 
 ## Service
 
+## Hosting
+
+- [Google Container Engine](https://cloud.google.com/container-engine/)
+- [Google App Engine Managed VM](https://cloud.google.com/appengine/docs/managed-vms/)
 - [Amazon EC2 Container Service](http://aws.amazon.com/ecs/)
+- [Amazon Elastic Beanstalk](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_docker.html)
+- [Triton](https://www.joyent.com/)
+- [tutum](https://www.tutum.co/)
+- [StackDock](https://stackdock.com/)
+- 
+
+### Registry
+
+Private container image registry services, 
+
+- [Quay.io](https://quay.io/) (Docker, App Container)
+- [Google Container Registry](https://cloud.google.com/tools/container-registry/) (Docker)
