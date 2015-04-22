@@ -49,6 +49,7 @@ Light-weight (Minimal) OS for running containers.
 
 - [Flynn](https://flynn.io/) (Docker)
 - [Deis](http://deis.io/) (Docker)
+- [dokku](https://github.com/progrium/dokku) (Docker)
 - [Cloud Foundry](http://cloudfoundry.org/index.html) (Warden)
 - [OpenShift v3](https://github.com/openshift/origin) (Docker, Kubernetes)
 
