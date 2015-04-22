@@ -70,6 +70,7 @@ Light-weight (Minimal) OS for running containers.
 - [Triton](https://www.joyent.com/)
 - [tutum](https://www.tutum.co/)
 - [StackDock](https://stackdock.com/)
+- [Giant Swarm](https://giantswarm.io/)
 
 ### Registry
 
@@ -77,3 +78,4 @@ Private container image registry services,
 
 - [Quay.io](https://quay.io/) (Docker, App Container)
 - [Google Container Registry](https://cloud.google.com/tools/container-registry/) (Docker)
+- [Reesd](https://reesd.com/) (Docker)
