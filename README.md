@@ -16,6 +16,10 @@ A curated list of awesome container technologies inspired by [awesomes](https://
 - [OpenVZ](https://openvz.org/Main_Page)
 - [Solaris Zones](http://docs.oracle.com/cd/E26502_01/html/E29024/toc.html)
 - [FreeBSD jail](http://www.freebsd.org/cgi/man.cgi?query=jail&format=html)
+- [zerovm](https://github.com/zerovm/zerovm)
+- [mbox](https://github.com/tsgates/mbox)
+- [vagga](https://github.com/tailhook/vagga)
+
 
 ### OS 
 
@@ -33,10 +37,13 @@ Light-weight (Minimal) OS for running containers.
 
 - [kubernetes](http://kubernetes.io/)
 - [lattice](http://lattice.cf/index.html)
+- [Flocker](https://github.com/ClusterHQ/flocker)
+- [VirtKick](https://github.com/virtkick/virtkick)
 
 ### Networking
 
 - [weave](http://weave.works/)
+- [wormhole](https://github.com/vishvananda/wormhole)
 
 ## Service
 
