@@ -40,7 +40,7 @@ Light-weight (Minimal) OS for running containers.
 
 ## Service
 
-## Hosting
+### Hosting
 
 - [Google Container Engine](https://cloud.google.com/container-engine/)
 - [Google App Engine Managed VM](https://cloud.google.com/appengine/docs/managed-vms/)
@@ -49,7 +49,6 @@ Light-weight (Minimal) OS for running containers.
 - [Triton](https://www.joyent.com/)
 - [tutum](https://www.tutum.co/)
 - [StackDock](https://stackdock.com/)
-- 
 
 ### Registry
 
