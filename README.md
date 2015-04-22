@@ -17,7 +17,7 @@ A curated list of awesome container technologies inspired by [awesomes](https://
 - [Solaris Zones](http://docs.oracle.com/cd/E26502_01/html/E29024/toc.html)
 - [FreeBSD jail](http://www.freebsd.org/cgi/man.cgi?query=jail&format=html)
 
-## OS 
+### OS 
 
 Light-weight (Minimal) OS for running containers.
 
@@ -29,12 +29,12 @@ Light-weight (Minimal) OS for running containers.
 - [Photon](https://vmware.github.io/photon/) from VMware
 - [Nano Server]([http://blogs.technet.com/b/windowsserver/archive/2015/04/08/microsoft-announces-nano-server-for-modern-apps-and-cloud.aspx) from Windows
 
-## Cluster Management
+### Cluster Management
 
 - [kubernetes](http://kubernetes.io/)
 - [lattice](http://lattice.cf/index.html)
 
-## Networking
+### Networking
 
 - [weave](http://weave.works/)
 
