@@ -33,10 +33,18 @@ Light-weight (Minimal) OS for running containers.
 
 - [kubernetes](http://kubernetes.io/)
 - [lattice](http://lattice.cf/index.html)
+- 
 
 ### Networking
 
 - [weave](http://weave.works/)
+
+### PaaS 
+
+- [Flynn](https://flynn.io/) (Docker)
+- [Deis](http://deis.io/) (Docker)
+- [Cloud Foundry](http://cloudfoundry.org/index.html) (Warden)
+- [OpenShift v3](https://github.com/openshift/origin) (Docker, Kubernetes)
 
 ## Service
 
