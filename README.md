@@ -46,6 +46,7 @@ Light-weight (Minimal) OS for running containers.
 
 - [weave](http://weave.works/)
 - [wormhole](https://github.com/vishvananda/wormhole)
+- [flannel](https://github.com/coreos/flannel)
 
 ### Monitoring
 
