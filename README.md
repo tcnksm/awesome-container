@@ -4,6 +4,7 @@
 
 A curated list of awesome container technologies inspired by [awesomes](https://github.com/sindresorhus/awesome).
 
+- [runc](https://github.com/opencontainers/runc)
 - [jetpack](https://github.com/3ofcoins/jetpack)
 - [nosecone](https://github.com/cdaylward/nosecone)
 - [rkt](https://github.com/coreos/rkt) 
@@ -20,6 +21,11 @@ A curated list of awesome container technologies inspired by [awesomes](https://
 - [mbox](https://github.com/tsgates/mbox)
 - [vagga](https://github.com/tailhook/vagga)
 
+
+### Spec
+
+- [opencontainers/specs](https://github.com/opencontainers/specs)
+- [appc/spec](https://github.com/appc/spec)
 
 ### OS 
 
