@@ -20,6 +20,7 @@ A curated list of awesome container technologies inspired by [awesomes](https://
 - [zerovm](https://github.com/zerovm/zerovm)
 - [mbox](https://github.com/tsgates/mbox)
 - [vagga](https://github.com/tailhook/vagga)
+- [MINCS](https://github.com/mhiramat/mincs)
 
 
 ### Spec
