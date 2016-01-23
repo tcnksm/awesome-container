@@ -23,6 +23,7 @@ A curated list of awesome container technologies inspired by [awesomes](https://
 - [MINCS](https://github.com/mhiramat/mincs)
 - [Linux-VServer](http://linux-vserver.org/)
 - [pflask](https://github.com/ghedo/pflask)
+- [cask](https://github.com/ianpreston/cask)
 
 
 ### Spec
