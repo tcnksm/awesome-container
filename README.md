@@ -22,6 +22,10 @@ A curated list of awesome container technologies inspired by [awesomes](https://
 - [vagga](https://github.com/tailhook/vagga)
 - [MINCS](https://github.com/mhiramat/mincs)
 - [Linux-VServer](http://linux-vserver.org/)
+- [pflask](https://github.com/ghedo/pflask)
+- [cask](https://github.com/ianpreston/cask)
+- [shocker](https://github.com/stamf/shocker)
+- [firejail](https://github.com/netblue30/firejail)
 
 
 ### Spec
