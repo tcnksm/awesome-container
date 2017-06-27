@@ -53,6 +53,7 @@ Light-weight (Minimal) OS for running containers.
 - [Panamax](http://panamax.io/)
 - [Flocker](https://github.com/ClusterHQ/flocker)
 - [VirtKick](https://github.com/virtkick/virtkick)
+- [Nebula Container Orchestrator](http://nebula.readthedocs.io/en/latest/)
 
 ### Networking
 
