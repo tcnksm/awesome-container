@@ -48,6 +48,7 @@ Light-weight (Minimal) OS for running containers.
 ### Cluster Management
 
 - [kubernetes](http://kubernetes.io/)
+- [Swarm](https://docs.docker.com/engine/swarm/)
 - [Tectonic](https://tectonic.com/)
 - [lattice](http://lattice.cf/index.html)
 - [Panamax](http://panamax.io/)
@@ -93,3 +94,4 @@ Private container image registry services,
 - [Quay.io](https://quay.io/) (Docker, App Container)
 - [Google Container Registry](https://cloud.google.com/tools/container-registry/) (Docker)
 - [Reesd](https://reesd.com/) (Docker)
+- [DockerHub](https://dockerhub.com/) (Docker)
