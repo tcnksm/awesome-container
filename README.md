@@ -92,4 +92,3 @@ Private container image registry services,
 
 - [Quay.io](https://quay.io/) (Docker, App Container)
 - [Google Container Registry](https://cloud.google.com/tools/container-registry/) (Docker)
-- [Reesd](https://reesd.com/) (Docker)
