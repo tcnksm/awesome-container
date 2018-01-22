@@ -54,6 +54,7 @@ Light-weight (Minimal) OS for running containers.
 - [Flocker](https://github.com/ClusterHQ/flocker)
 - [VirtKick](https://github.com/virtkick/virtkick)
 - [Nebula Container Orchestrator](http://nebula.readthedocs.io/en/latest/)
+- [MultiDocker](https://github.com/marty90/multidocker)
 
 ### Networking
 
