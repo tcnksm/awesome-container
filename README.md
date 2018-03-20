@@ -26,6 +26,7 @@ A curated list of awesome container technologies inspired by [awesomes](https://
 - [cask](https://github.com/ianpreston/cask)
 - [shocker](https://github.com/stamf/shocker)
 - [firejail](https://github.com/netblue30/firejail)
+- [lstags](https://github.com/ivanilves/lstags)
 
 
 ### Spec
